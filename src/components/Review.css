@@ -1,0 +1,15 @@
+.Red {
+    color: red;
+}
+
+.Blue {
+    color: blue;
+}
+
+.Success {
+    visibility: hidden;
+}
+
+.Failure {
+    color: red;
+}
